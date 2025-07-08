@@ -96,21 +96,12 @@ Feel free to fork this repository and contribute! If you see any bugs or areas o
 
 ---
 
-## License:
-
-This project is open-source and available under the [MIT License](LICENSE).
-
----
-
 ## Acknowledgements:
 - **Firebase** for providing authentication and hosting.
 - **FontAwesome** for beautiful icons.
 
 ---
 
-### Live Demo:
-You can try out the live version of the application here:
-[Student-Teacher Booking Appointment Live Demo](https://student-teacher-booking-cd647.web.app/)
 
 ---
 
